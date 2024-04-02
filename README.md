@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ignacio-nicoletti&label=Profile%20views&color=0e75b6&style=flat" alt="ignacio-nicoletti" /> </p>
 
-- 🔭 I’m currently working on [Nabijash](https://nabijash.vercel.app/)
+- 🔭 I’m currently working on Freelance
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
